@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+h3,h4,p{
+  color:white;
+  font-family: sans-serif;
+}
+
+h1{
+  color:white;
+  font-family: serif;
+}
+
+.cte-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

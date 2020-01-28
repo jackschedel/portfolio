@@ -1,0 +1,78 @@
+html {
+  background: url(images/uwuSpaceDarker.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+   margin-top: .1%;
+   margin-left: 2%;
+   height: 100%;
+   width: 98%;
+}
+
+h1,h2,h3,h4,h5,h6,ul,p,a{
+  color: white;
+}
+
+h3.nav {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h2.assignments{
+  margin-top: 10%;
+}
+
+footer {
+  color:gray;
+  font-size: 20px;
+  text-align: center;
+}
+
+a.h2 {
+  font-size: 50px;
+}
+
+a.h3 {
+  font-size: 40px;
+}
+
+a.not-underlined {
+  color: gray;
+  text-decoration: none;
+}
+
+a.h1{
+  font-size: 100px;
+  text-decoration: none;
+}
+
+
+
+li{
+  font-size: 20px;
+}
+
+p{
+  font-size: 20px;
+}
+
+img.projectImage {
+  width:30%;
+}
+
+img.myHeadshot{
+  width:12%;
+}

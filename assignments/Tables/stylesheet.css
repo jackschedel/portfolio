@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+
+table{
+  width: 600px;
+  background-color: gray;
+  border-color: black;
+
+  color: white;
+}
+
+h1{
+  color: white;
+}

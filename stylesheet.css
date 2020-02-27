@@ -70,7 +70,8 @@ p{
 }
 
 img.projectImage {
-  width:30%;
+  max-height: 500px;
+  max-width: 500px;
 }
 
 img.myHeadshot{
